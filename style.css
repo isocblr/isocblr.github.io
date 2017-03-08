@@ -24,6 +24,6 @@ body {
  */
 
 .translucent {
-	background: rgba(10, 10, 10, .9);
+	background: rgba(0, 0, 0, .9);
 	color: #fff;
 }
