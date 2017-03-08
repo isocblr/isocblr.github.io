@@ -1,0 +1,29 @@
+/*!
+ * Start Bootstrap - The Big Picture (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: none;
+}
+
+.full {
+  background: url(https://unsplash.it/720?image=1078) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+/*!
+ * Copyright 2017 Internet Society Bangalore
+ * Licensed under MIT
+ */
+
+.translucent {
+	background: rgba(10, 10, 10, .9);
+	color: #fff;
+}
